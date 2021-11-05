@@ -46,9 +46,8 @@ header{
     background-color: var(--gold);
     padding: var(--padding) 0px 0px var(--padding);
     position: fixed;
-      z-index: 1;
-  width: var(--width);
-   
+     z-index: 1;
+    width: var(--width);
   }
 
   header div {
@@ -136,7 +135,7 @@ header{
      
       .skside {
         flex: 4;
-       padding: 20px; 
+        padding: 20px; 
         /* margin-left: 450px; */
         display: flex;
         flex-wrap: wrap;
