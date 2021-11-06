@@ -5,7 +5,7 @@ This is about my bio project
 
 Title is Bio
 
-here is the link for bio page  [Bio](https://www.google.com)
+here is the link for bio page  [Bio](https://ksuthan.github.io/mybio/)
  
  Git hub repo link : https://github.com/KSuthan/mybio.git
 
