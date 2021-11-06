@@ -19,7 +19,7 @@
 }
 
 body {
-    background-image: url(../image/8.jpg);
+   background-image: url(../image/8.jpg);
     background-size: cover;
     min-width: 620px;
     min-height: 972px;
@@ -64,7 +64,7 @@ text-decoration: none;
 
 
 .welcome {
-    background-image: url(../Image/2.jpg);
+    background-image: url(../image/2.jpg);
     min-height: 400px;
     background-size: cover;
 }
