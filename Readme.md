@@ -5,28 +5,32 @@ This is about my bio project
 
 Title is Bio
 
-here is the link for my bio page  [Bio](https://www.google.com)
+here is the link for bio page  [Bio](https://www.google.com)
+ 
+ Git hub repo link : https://github.com/KSuthan/mybio.git
 
 
 
 HTMl 
 1. Header - Contain  pic , name and & navigation
-  ![header](./assets/screenshots/header.png)
+ ![header](https://user-images.githubusercontent.com/91926452/140617353-b242b4bd-6d1d-4607-b466-e71462ba7611.png)
 
 2. About me- i discribe little bit about my experience, projects and my likes 
-  ![aboutme](./assets/screenshots/Aboutme.png)
+  ![Aboutme](https://user-images.githubusercontent.com/91926452/140617394-bb2733cf-c759-46d2-a704-57ca8b8454d0.png)
+
 
 3. Skills - i discribe few of my skills 
-   ![aboutme](./assets/screenshots/skills.png)
+   ![skills](https://user-images.githubusercontent.com/91926452/140617408-fcfef3d0-75e4-4621-a282-6288e2e3272f.png)
 
 4. Certification - i posted required certification for my job
-   ![aboutme](./assets/screenshots/certification.png)
+   ![certification](https://user-images.githubusercontent.com/91926452/140617411-890e68a8-abba-41a7-86cf-9b5e52ddfcb1.png)
 
 5. Conatact me - I include my phone no , email id & git hub link
-   ![aboutme](./assets/screenshots/contactme.png)
+  ![contactme](https://user-images.githubusercontent.com/91926452/140617442-e22e6592-7c4a-41d7-8366-3a488bec1e1d.png)
+
 
 6. Footer - Copy right & design by
-    ![aboutme](./assets/screenshots/footer.png)
+  ![footer](https://user-images.githubusercontent.com/91926452/140617421-d77543aa-a7cf-4124-89c1-28cd3b07d0c7.png)
 
 
     CSS
