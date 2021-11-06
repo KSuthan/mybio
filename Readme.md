@@ -35,7 +35,7 @@ HTMl
 
     CSS
 
-    In header Section I use span to give two colours to my name. It contain navigation item and link to each page
+    In header Section I use span to give two colours to my name. It contain navigation item and link to each page. I gave Nav-item hover color green. when someone point cursor to nav item it will trun in to green
 
     welcome section have a background pic and text "Welcome to my biography page " i use mutilcolortext class to give rainbow colors to text , transparent colour and font styling
 
